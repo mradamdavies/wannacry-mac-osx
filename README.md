@@ -3,11 +3,12 @@ I found this malware sample while helping a friend fix his Macbook. It's essenti
 
 It's a terminal one-liner, using native applications so was hard to block when it was released.
 
-
-## Usage
 The code basicly encrypts the hard drive with a key, then sends the key to the C2 domain.
 
+## Usage
 Change `http://C2/`
+
+Copy/paste to terminal
 
 ## Compatibility
 Tested on Catalina 10.15.X.
