@@ -16,4 +16,4 @@ No idea on support for other versions as I don't use or have access to a Mac.
 
 
 ## Social
-[Hackersploit Discord Server](https://discord.gg/hackersploit)
+[Hackersploit Discord Server](https://discord.gg/3q6uwWAJTK)
